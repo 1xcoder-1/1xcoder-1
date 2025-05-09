@@ -85,13 +85,6 @@ I love experimenting with tools that push the **boundaries of what's possible** 
 
 ---
 
-<!-- You can add GitHub Stats below if you like -->
-
-<
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" />
-</p>
 
 
 
