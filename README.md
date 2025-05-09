@@ -7,15 +7,55 @@
 
 <a href="https://play.kotlinlang.org"><img src="./colored.png"  width="100%" alt="play.kotlinlang.org"/></a>
 
-👋 Hey there! I'm Abdullah Ramzan, a passionate Full Stack Developer 👨‍💻
+# 👋 Hey there! I'm Abdullah Ramzan
 
-I’m on a mission to harness the power of technology to drive innovation, solve complex problems, and build impactful solutions. With hands-on experience in web development, app development, and artificial intelligence, I thrive on turning ideas into reality through clean code and creative thinking.
+I'm a **passionate Full Stack Developer** 👨‍💻 on a mission to harness the power of technology to:
 
-Currently, I'm diving deep into cutting-edge projects that challenge the norm and push the boundaries of what’s possible in tech. 🌐⚙️
+* 🚀 Drive **innovation**
+* 🧠 Solve **complex problems**
+* 💻 Build **impactful solutions**
 
-🔍 I'm actively exploring new opportunities and collaborations — always eager to learn, grow, and contribute to meaningful work.
+---
 
-💡 Let’s connect and build something extraordinary. Follow my journey for updates, insights, and inspiration from the world of technology! 🤗
+## 🛠️ What I Do
+
+With hands-on experience in:
+
+* 🌐 **Web Development**
+* 📱 **App Development** (Flutter *& React Native*)
+* 🤖 **Artificial Intelligence**
+
+I thrive on turning **ideas into reality** through **clean code** and **creative thinking**.
+
+---
+
+## 🔭 Currently Exploring
+
+I'm diving deep into:
+
+* ⚙️ **Cutting-edge projects** that challenge the norm
+* ☁️ **Cloud Platforms** (Google Cloud & AWS)
+* 🕸️ **Web3 Technologies**
+
+I love experimenting with tools that push the **boundaries of what's possible** in tech.
+
+---
+
+## 🤝 Let's Collaborate
+
+* 🔍 Actively seeking **new opportunities** and **exciting collaborations**
+* 🌱 Always eager to **learn**, **grow**, and **contribute** to meaningful work
+* 📢 Sharing updates, insights, and inspiration from the world of technology
+
+---
+
+## 📬 Connect with Me
+
+Let's build something extraordinary together!
+---
+
+> 💡 *"Explore 🔥 and Explode 💣 with knowledge."* — Abdullah Ramzan
+
 
 <div align="center" >
 <a  href="https://github.com/SP-XD">
