@@ -80,9 +80,3 @@ I love experimenting with tools that push the **boundaries of what's possible** 
 > _"Explore 🔥 and Explode 💣 with knowledge."_— **Abdullah Ramzan**
 
 ---
-
-
-
-
-<p align="right"><a href="#top"><img src="https://img.shields.io/static/v1?label&message=back+to+top&color=7E3ACE&style=flat&logo" alt="back to top" /></a></p>
-<div align="center" ><img alt="" width="100%" src="https://github.com/Carol42/Carol42/blob/main/assets/footer.png"></div>
