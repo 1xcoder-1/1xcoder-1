@@ -26,7 +26,7 @@ Currently, I'm diving deep into cutting-edge projects that challenge the norm an
 <h2 align="center">⚒️ Programming Languages </h2>
 <br>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=python,javascript,dart,r,ruby,php,c,cpp" />
+    <img src="https://skillicons.dev/icons?i=python,javascript,flutter,c" />
 </div>
 <br/>
 
