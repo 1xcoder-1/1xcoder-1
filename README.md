@@ -50,7 +50,7 @@ I love experimenting with tools that push the **boundaries of what's possible** 
 ---
 
 
-💻 Languages & Tools
+##💻 Languages & Tools
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript"/>
