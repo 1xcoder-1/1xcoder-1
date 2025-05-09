@@ -56,14 +56,11 @@ Let's build something extraordinary together!
 
 > 💡 *"Explore 🔥 and Explode 💣 with knowledge."* — Abdullah Ramzan
 
-
+## 💻 Languages & Tools
 <div align="center" >
 <a  href="https://github.com/SP-XD">
-<br/>
-
-	
+<br/>	
 <a href="https://play.kotlinlang.org"><img src="./colored.png"  width="100%" alt="play.kotlinlang.org"/></a>
-## 💻 Languages & Tools
 <br>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=python,javascript,flutter,c" />
