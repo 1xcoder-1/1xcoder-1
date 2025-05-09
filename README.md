@@ -60,7 +60,6 @@ Let's build something extraordinary together!
 <div align="center" >
 <a  href="https://github.com/SP-XD">
 <br/>	
-<a href="https://play.kotlinlang.org"><img src="./colored.png"  width="100%" alt="play.kotlinlang.org"/></a>
 <br>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=python,javascript,flutter,c" />
