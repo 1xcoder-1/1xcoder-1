@@ -63,7 +63,7 @@ Let's build something extraordinary together!
 
 	
 <a href="https://play.kotlinlang.org"><img src="./colored.png"  width="100%" alt="play.kotlinlang.org"/></a>
-<h2 align="center">⚒️ Programming Languages </h2>
+## 💻 Languages & Tools
 <br>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=python,javascript,flutter,c" />
