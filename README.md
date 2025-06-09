@@ -34,7 +34,7 @@ I thrive on turning **ideas into reality** through **clean code** and **creative
 I'm diving deep into:
 
 * ⚙️ **Cutting-edge projects** that challenge the norm
-* ☁️ **Cloud Platforms** (Google Cloud & AWS)
+* ☁️ **Cloud Platforms** (AWS)
 * 🕸️ **Web3 Technologies**
 
 I love experimenting with tools that push the **boundaries of what's possible** in tech.
