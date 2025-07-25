@@ -22,7 +22,7 @@ I'm a **passionate Full Stack Developer** 👨‍💻 on a mission to harness th
 With hands-on experience in:
 
 * 🌐 **Web Development**
-* 📱 **App Development** (Flutter *& React Native*)
+* 📱 **App Development** (React Native*)
 * 🤖 **Artificial Intelligence**
 
 I thrive on turning **ideas into reality** through **clean code** and **creative thinking**.
