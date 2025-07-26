@@ -43,7 +43,7 @@ I love experimenting with tools that push the **boundaries of what's possible** 
 ## 💬 Ask Me About
 
 - Frontend & Backend Development  
-- Flutter / React Native Mobile Apps  
+- React Native Mobile Apps  
 - Firebase, MongoDB, Node.js  
 - DevOps, Deployment, CI/CD  
 - Web3 & Smart Contract Basics
