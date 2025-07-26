@@ -40,7 +40,15 @@ I'm diving deep into:
 I love experimenting with tools that push the **boundaries of what's possible** in tech.
 
 ---
+## 💬 Ask Me About
 
+- Frontend & Backend Development  
+- Flutter / React Native Mobile Apps  
+- Firebase, MongoDB, Node.js  
+- DevOps, Deployment, CI/CD  
+- Web3 & Smart Contract Basics
+
+---
 ## 🤝 Let's Collaborate
 
 * 🔍 Actively seeking **new opportunities** and **exciting collaborations**
