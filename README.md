@@ -22,7 +22,7 @@ I'm a **passionate Full Stack Developer** 👨‍💻 on a mission to harness th
 With hands-on experience in:
 
 * 🌐 **Web Development**
-* 📱 **App Development** 
+* 📱 **App Development** ( Streamlit (for data-driven web apps), Electron.js (for cross-platform desktop apps))
 * 🤖 **Artificial Intelligence**
 
 I thrive on turning **ideas into reality** through **clean code** and **creative thinking**.
