@@ -23,7 +23,7 @@ With hands-on experience in:
 
 * 🌐 **Web Development**
 * 📱 **App Development** (Streamlit, Electron.js)
-* 🤖 **Artificial Intelligence**
+* 🤖 **Artificial Intelligence**(Python)
 
 I thrive on turning **ideas into reality** through **clean code** and **creative thinking**.
 
@@ -35,7 +35,6 @@ I'm diving deep into:
 
 * ⚙️ **Cutting-edge projects** that challenge the norm
 * ☁️ **Cloud Platforms** (AWS)
-* 🕸️ **Web3 Technologies**
 
 I love experimenting with tools that push the **boundaries of what's possible** in tech.
 
@@ -44,9 +43,8 @@ I love experimenting with tools that push the **boundaries of what's possible** 
 
 - Frontend & Backend Development  
 - Streamlit, Electron.js Mobile/Desktop Apps  
-- Firebase, Superbase, MongoDB, Node.js  
-- DevOps, Deployment, CI/CD  
-- Web3 & Smart Contract Basics
+- Firebase, Superbase, MongoDB, Node.js, Python  
+- Git, Github, Aws, CI/CD  
 
 ---
 ## 🤝 Let's Collaborate
