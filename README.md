@@ -2,7 +2,7 @@
 ![Banner GitHub](https://github.com/Anmol-Baranwal/Anmol-Baranwal/assets/74038190/fe054170-c69a-41d2-8e73-f7f239ebc046)
 
 <a href="https://play.kotlinlang.org"><img src="./colored.png"  width="100%" alt="play.kotlinlang.org"/></a>
-# ⚡ Abdullah Ramzan | Full Stack Developer 👨‍💻 | Turning Ideas into Scalable Software 🚀
+# ⚡ Abdullah Ramzan | Full Stack Developer 👨‍💻 
 
 I am a **Passionate Full Stack Developer** who doesn't just write code—I **Build Solutions** that Deliver Real-World Impact. My mission is to leverage **Cutting-edge Technology** to Solve Complex Problems and Create Applications that are **Intuitive, Fast, and Genuinely Helpful**.
 
