@@ -1,51 +1,49 @@
 
 ![Banner GitHub](https://github.com/Anmol-Baranwal/Anmol-Baranwal/assets/74038190/fe054170-c69a-41d2-8e73-f7f239ebc046)
 
-
-</p>
-
-
 <a href="https://play.kotlinlang.org"><img src="./colored.png"  width="100%" alt="play.kotlinlang.org"/></a>
+# ⚡ Abdullah Ramzan | Full Stack Developer 👨‍💻 | Turning Ideas into Scalable Software 🚀
 
-# 👋 Hey there! I'm Abdullah Ramzan
-
-I'm a **passionate Full Stack Developer** 👨‍💻 on a mission to harness the power of technology to:
-
-* 🚀 Drive **innovation**
-* 🧠 Solve **complex problems**
-* 💻 Build **impactful solutions**
+I am a **Passionate Full Stack Developer** who doesn't just write code—I **Build Solutions** that Deliver Real-World Impact. My mission is to leverage **Cutting-edge Technology** to Solve Complex Problems and Create Applications that are **Intuitive, Fast, and Genuinely Helpful**.
 
 ---
 
-## 🛠️ What I Do
+### ✨ Tech Stack & Expertise
 
-With hands-on experience in:
+#### 🖥️ Front-End & UI
 
-* 🌐 **Web Development**
-* 📱 **App Development** (Streamlit, Electron.js)
-* 🤖 **Artificial Intelligence**(Python)
+* **Core:** **Next.js**, **TypeScript** (Building Full Stack Apps with Static Typing and SSR/SSG).
+* **React Ecosystem:** **React.js** (Building Dynamic, Component-Based User Interfaces).
+* **Modern Alternatives:** Preact, Astro (Knowledge of Lightweight Frameworks and Modern Static Site Generation).
+* **Mobile:** React Native (Knowledge of Cross-Platform Mobile Application Development).
+* **Styling:** **Tailwind CSS**, MUI, Chakra UI, Bootstrap, ShadCN (Creating Modern, Responsive User Interfaces).
 
-I thrive on turning **ideas into reality** through **clean code** and **creative thinking**.
+#### ⚙️ Back-End & Data
 
----
+* **APIs:** **Node.js**, **Express.js** (Developing Scalable and Fast Backend Services).
+* **SQL Databases:** PostgreSQL, MySQL (Relational Data Management).
+* **NoSQL Databases:** MongoDB (Flexible, Document-Based Data Management).
+* **Database Providers:** Firebase, Supabase, NeonDB (Expertise in Serverless and Cloud-Native Backend Services).
+* **ORMs:** **Prisma**, Drizzle ORM (Managing Databases Efficiently with Type Safety and Schema Control).
 
-## 🔭 Currently Exploring
+#### ☁️ Cloud & AI Integration
 
-I'm diving deep into:
+* **Cloud Platforms:** **AWS** (Experience Deploying, Hosting, and Scaling Applications on the Cloud).
+* **AI Integration:** Experience Integrating SDKs and APIs from **Gemini**, GPT, and other Providers to Build Intelligent Features.
 
-* ⚙️ **Cutting-edge projects** that challenge the norm
-* ☁️ **Cloud Platforms** (AWS)
+#### 🛠️ DevOps & Performance
 
-I love experimenting with tools that push the **boundaries of what's possible** in tech.
+* **Version Control:** **Git**, **GitHub**, GitLab (Expertise in Collaboration and Code Management).
+* **Containerization:** Docker (Ensuring Consistent Application Environments).
+* **Deployment:** **Vercel**, Netlify (Rapid Deployment and CI/CD Workflows).
+* **Build Tools:** Vite, Webpack, ESBuild, Turbopack (Optimizing Build Speed and Efficiency).
 
----
-## 💬 Ask Me About
+#### 🧪 Testing & Other Tools
 
-- Frontend & Backend Development  
-- Streamlit, Electron.js Mobile/Desktop Apps  
-- Firebase, Superbase, MongoDB, Node.js, Python  
-- Git, Github, Aws, CI/CD  
-
+* **Testing:** Jest, React Testing Library (Ensuring Application Reliability and Quality).
+* **Code Quality:** Prettier (Maintaining Consistent Code Style Across Projects).
+* **Design:** Figma (Basic Familiarity for Translating UI/UX Designs).
+* **Desktop:** Electron.js (Developing Cross-Platform Desktop Applications).
 ---
 ## 🤝 Let's Collaborate
 
