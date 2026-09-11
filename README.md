@@ -9,14 +9,29 @@
 
 ## ⚡ Tech Stack
 
-**Frontend** → Next.js · React · TypeScript · Tailwind CSS · ShadCN  
-**Backend** → Node.js · Express · PostgreSQL · MongoDB · Prisma · Drizzle ORM · Redis  
-**Mobile** → React Native · Expo  
-**Desktop** → Electron.js  
-**Cloud** → AWS · Firebase · Supabase · NeonDB · Vercel · Cloudflare  
-**DevOps** → Docker · CI/CD  
-**Testing** → Cypress · React Testing Library  
-**Tools** → Git · GitHub · Figma · Cursor · Antigravity
+### 🌐 Frontend
+Next.js · React · TypeScript · JavaScript · HTML5 · CSS3 · Tailwind CSS · ShadCN · Bootstrap · Framer Motion · GSAP · Lenis · Redux · Zustand · React Query · React Hook Form · Zod
+
+### ⚙️ Backend
+Node.js · Express.js · Python · Flask · REST APIs · GraphQL · WebSockets · Socket.IO · Prisma · Drizzle ORM · Redis · JWT · OAuth · Clerk · Inngest · BullMQ · Nginx
+
+### 🗄️ Databases
+PostgreSQL · MongoDB · Redis · Supabase · NeonDB · Firebase
+
+### 📱 Mobile & Desktop
+React Native · Expo · Electron.js
+
+### ☁️ Cloud & DevOps
+AWS · Docker · Vercel · Cloudflare · Netlify · CI/CD · GitHub Actions · Nginx
+
+### 🤖 AI & Automation
+Python · Gemini · OpenAI API · LLMs · AI Agents · RAG · MCP
+
+### 🧪 Testing
+Jest · Cypress · React Testing Library
+
+### 🧰 Tools
+Git · GitHub · Figma · Cursor · Antigravity · VS Code
 
 ---
 🌱 Always learning. Always building.
