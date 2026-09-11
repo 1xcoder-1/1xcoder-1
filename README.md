@@ -9,23 +9,14 @@
 
 ## ⚡ Tech Stack
 
-### 🌐 Frontend
-<img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,html,css" />
-
-### ⚙️ Backend
-<img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mongodb,prisma,redis" />
-
-### 📱 Mobile & Desktop
-<img src="https://skillicons.dev/icons?i=react,expo,electron" />
-
-### ☁️ Cloud & DevOps
-<img src="https://skillicons.dev/icons?i=aws,firebase,supabase,docker,cloudflare,vercel" />
-
-### 🧰 Tools
-<img src="https://skillicons.dev/icons?i=git,github,figma,vscode" />
-
-**Also working with:** Cursor · Antigravity · NeonDB · CI/CD · Cypress · React Testing Library
-
+**Frontend** → Next.js · React · TypeScript · Tailwind CSS · ShadCN  
+**Backend** → Node.js · Express · PostgreSQL · MongoDB · Prisma · Drizzle ORM · Redis  
+**Mobile** → React Native · Expo  
+**Desktop** → Electron.js  
+**Cloud** → AWS · Firebase · Supabase · NeonDB · Vercel · Cloudflare  
+**DevOps** → Docker · CI/CD  
+**Testing** → Cypress · React Testing Library  
+**Tools** → Git · GitHub · Figma · Cursor · Antigravity
 
 ---
 🌱 Always learning. Always building.
