@@ -3,7 +3,7 @@
 
 <a href="https://play.kotlinlang.org"><img src="./colored.png"  width="100%" alt="play.kotlinlang.org"/></a>
 ## Abdullah Ramzan 👨‍💻
-### Full Stack Developer · AI Builder · Software Engineer 
+### Developer · AI Builder · Tech Explorer
 
 I build scalable software workflows that solve real world problems. My focus is on creating fast, intuitive applications that deliver measurable impact.
 
