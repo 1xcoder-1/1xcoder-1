@@ -21,8 +21,6 @@
 
 **AI · AI Agents · Cloud Architecture · Open Source**
 
-🌱 Always learning. Always building.
-
 ---
 
 ## 🤝 Let’s Connect
