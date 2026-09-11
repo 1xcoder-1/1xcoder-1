@@ -2,7 +2,8 @@
 ![Banner GitHub](https://github.com/Anmol-Baranwal/Anmol-Baranwal/assets/74038190/fe054170-c69a-41d2-8e73-f7f239ebc046)
 
 <a href="https://play.kotlinlang.org"><img src="./colored.png"  width="100%" alt="play.kotlinlang.org"/></a>
-#  Abdullah Ramzan | Developer 👨‍💻 
+## Abdullah Ramzan 👨‍💻
+### Full Stack Developer · AI Builder · Software Engineer 
 
 I build scalable software workflows that solve real world problems. My focus is on creating fast, intuitive applications that deliver measurable impact.
 
