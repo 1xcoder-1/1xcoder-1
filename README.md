@@ -5,7 +5,7 @@
 ## Abdullah Ramzan 👨‍💻
 ### Developer · AI Builder · Tech Explorer
 
-I build scalable software workflows that solve real world problems. My focus is on creating fast, intuitive applications that deliver measurable impact.
+> Building scalable software, AI Powered workflows, and real world solutions.
 
 ## Core Tech Stack
 Frontend: Next.js, React, TypeScript, Tailwind CSS, ShadCN.  
