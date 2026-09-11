@@ -1,7 +1,6 @@
 
-![Banner GitHub](https://github.com/Anmol-Baranwal/Anmol-Baranwal/assets/74038190/fe054170-c69a-41d2-8e73-f7f239ebc046)
+![Banner GitHub](./colors.jpg)
 
-<a href="https://play.kotlinlang.org"><img src="./colored.png"  width="100%" alt="play.kotlinlang.org"/></a>
 ## Abdullah Ramzan 👨‍💻
 ### Developer · AI Builder · Tech Explorer
 
@@ -18,7 +17,6 @@
 🤖 **AI & Automation:** Gemini, OpenAI API, LLMs, AI Agents, Agentic AI, MCP.<br>
 🧰 **Tools:** Git, GitHub, Figma, Cursor, Antigravity, VS Code.
 
----
 🌱 Always learning. Always building.
 
 ---
