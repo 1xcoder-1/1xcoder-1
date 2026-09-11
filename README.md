@@ -17,6 +17,10 @@
 🤖 **AI & Automation:** Gemini, OpenAI API, LLMs, AI Agents, Agentic AI, MCP.<br>
 🧰 **Tools:** Git, GitHub, Figma, Cursor, Antigravity, VS Code.
 
+## 🌱 Currently Exploring
+
+**AI · AI Agents · Cloud Architecture · Open Source**
+
 🌱 Always learning. Always building.
 
 ---
