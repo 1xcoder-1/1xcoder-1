@@ -9,14 +9,14 @@
 
 ## ⚡ Tech Stack
 
-**Frontend** → Next.js · React · Astro · TypeScript · Tailwind CSS · ShadCN · Framer Motion · GSAP · Zustand · Zod
-**Backend** → Node.js · Express · Prisma · Drizzle ORM · REST APIs · Inngest · Socket.IO 
-**Databases** → PostgreSQL · MongoDB · Redis · Supabase · NeonDB · Firebase
-**Mobile** → React Native · Expo  
-**Desktop** → Electron.js  
-**Cloud & DevOps** → AWS · Docker · Vercel · Cloudflare · CI/CD · Nginx · Linux 
-**AI & Automation** → Gemini · OpenAI API · LLMs · AI Agents · Agentic AI · MCP 
-**Tools** → Git · GitHub · Figma · Cursor · Antigravity · VS Code
+Frontend → Next.js · React · Astro · TypeScript · Tailwind CSS · ShadCN · Framer Motion · GSAP · Zustand · Zod
+Backend → Node.js · Express · Prisma · Drizzle ORM · REST APIs · Inngest · Socket.IO 
+Databases → PostgreSQL · MongoDB · Redis · Supabase · NeonDB · Firebase
+Mobile → React Native · Expo  
+Desktop → Electron.js  
+Cloud & DevOps → AWS · Docker · Vercel · Cloudflare · CI/CD · Nginx · Linux 
+AI & Automation → Gemini · OpenAI API · LLMs · AI Agents · Agentic AI · MCP 
+Tools → Git · GitHub · Figma · Cursor · Antigravity · VS Code
 ---
 🌱 Always learning. Always building.
 
