@@ -8,7 +8,7 @@
 > Building scalable software, AI Powered workflows, and real world solutions.
 
 ## ⚡ Tech Stack
----
+
 Frontend: Next.js, React, Astro, TypeScript, Tailwind CSS, ShadCN, Framer Motion, GSAP, Zustand, Zod.
 Backend: Node.js, Express, Prisma, Drizzle ORM, REST APIs, Inngest, Socket.IO.
 Databases: PostgreSQL, MongoDB, Redis, Supabase, NeonDB, Firebase.
