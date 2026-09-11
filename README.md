@@ -9,30 +9,14 @@
 
 ## ⚡ Tech Stack
 
-### 🌐 Frontend
-Next.js · React · TypeScript · JavaScript · HTML5 · CSS3 · Tailwind CSS · ShadCN · Bootstrap · Framer Motion · GSAP · Lenis · Redux · Zustand · React Query · React Hook Form · Zod
-
-### ⚙️ Backend
-Node.js · Express.js · Python · Flask · REST APIs · GraphQL · WebSockets · Socket.IO · Prisma · Drizzle ORM · Redis · JWT · OAuth · Clerk · Inngest · BullMQ · Nginx
-
-### 🗄️ Databases
-PostgreSQL · MongoDB · Redis · Supabase · NeonDB · Firebase
-
-### 📱 Mobile & Desktop
-React Native · Expo · Electron.js
-
-### ☁️ Cloud & DevOps
-AWS · Docker · Vercel · Cloudflare · Netlify · CI/CD · GitHub Actions · Nginx
-
-### 🤖 AI & Automation
-Python · Gemini · OpenAI API · LLMs · AI Agents · RAG · MCP
-
-### 🧪 Testing
-Jest · Cypress · React Testing Library
-
-### 🧰 Tools
-Git · GitHub · Figma · Cursor · Antigravity · VS Code
-
+**Frontend** → Next.js · React · Astro · TypeScript · Tailwind CSS · ShadCN · Framer Motion · GSAP · Zustand · Zod
+**Backend** → Node.js · Express · Prisma · Drizzle ORM · REST APIs · Inngest · Socket.IO 
+**Databases** → PostgreSQL · MongoDB · Redis · Supabase · NeonDB · Firebase
+**Mobile** → React Native · Expo  
+**Desktop** → Electron.js  
+**Cloud & DevOps** → AWS · Docker · Vercel · Cloudflare · CI/CD · Nginx · Linux 
+**AI & Automation** → Gemini · OpenAI API · LLMs · AI Agents · Agentic AI · MCP 
+**Tools** → Git · GitHub · Figma · Cursor · Antigravity · VS Code
 ---
 🌱 Always learning. Always building.
 
